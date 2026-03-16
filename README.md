@@ -1,8 +1,24 @@
-# Stats220
+# STATS220
+
+## About me
 
 A little about me:
-- Hi, I am currently studying BSC major in Biological sciences
-- I am taking stats220 because I have strong interest towards coding and data analysis
+
+- Hi, I am currently studying a **BSc majoring in Biological Sciences**
+- I am taking *STATS220* because I have a strong interest in **coding and data analysis**
 - I’m hoping this course will help me build strong quantitative skills.
 
-A meme that captures how I currently feel about my university studies is ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
+## What I want to learn
+
+1. Basic coding with R
+2. Creating memes using data technologies
+3. Learning how HTML and Markdown work
+
+You can learn more about my university here:  
+https://www.auckland.ac.nz
+
+## Current university mood
+
+A meme that captures how I currently feel about my university studies is:
+
+![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
